@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="ConsoleOutput.txt" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="LibrarySystem.Console/LibrarySystem.Console.csproj" Id="43e7eb8a-a45f-4f57-b3a5-2ad263a5af6f" />
+  <Project Path="LibrarySystem.Domain/LibrarySystem.Domain.csproj" />
+  <Project Path="LibrarySystem.Infrastructure/LibrarySystem.Infrastructure.csproj" />
+</Solution>
